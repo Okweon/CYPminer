@@ -1,3 +1,4 @@
+CYPminer: An Automated Cytochrome P450 Identification, Classification, and Data Analysis Tool for Genome Data Sets Across Kingdoms.
 
 CYPminer was developed in the Python language to facilitate rapid, comprehensive analysis of CYPs from genomes of all kingdoms. CYPminer consists of two procedures i) to generate the Genome-CYP Matrix (GCM) that lists all occurrences of CYPs across the genomes, and ii) to perform analyses and visualization of the GCM, including pan-CYPomes (pan- and core-CYPome), CYP co-occurrence networks, CYP clouds, and genome clustering data. 
 
