@@ -1,0 +1,74 @@
+fig|1764.11.peg.44|BBJ32_00215   hypothetical protein   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP190A3	56.6	403	171	2	1	410	1	400	*	*
+fig|1764.11.peg.3810|BBJ32_18425   Putative cytochrome P450 hydroxylase   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP291A3	73.2	395	103	1	1	397	1	398	*	*
+fig|1764.11.peg.2061   hypothetical protein   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP144A4	54.0	215	99	0	1	215	1	404	*	*
+fig|1764.11.peg.1891|BBJ32_09125   Cytochrome P450   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP138A1	77.1	441	98	2	1	438	1	441	*	*
+fig|1764.11.peg.2615|BBJ32_12650   Steroid C26-monooxygenase (EC 1.14.13.221)   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP142A2	84.4	404	60	2	1	406	1	401	*	*
+fig|1765.277.peg.3383   Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)   [Mycobacterium bovis ATCC BAA-935 | 1765.277]&&1765.277.PATRIC	CYP141A1	31.7	353	202	7	1	320	1	400	*	*
+fig|1765.277.peg.2467   hypothetical protein   [Mycobacterium bovis ATCC BAA-935 | 1765.277]&&1765.277.PATRIC	CYP128A1	100.0	393	0	0	1	393	1	489	*	*
+fig|1764.11.peg.2808|BBJ32_13600   Putative cytochrome P450 hydroxylase   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP190A2	99.3	401	3	0	1	401	1	401	*	*
+fig|1764.11.peg.4091|BBJ32_19735   Cytochrome P450   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP272A1	97.9	389	8	0	1	389	1	389	*	*
+fig|1764.11.peg.4036|BBJ32_19460   Putative cytochrome P450 hydroxylase   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP140B1	57.8	436	181	1	1	437	1	507	*	*
+fig|1764.11.peg.4019|BBJ32_19380   Putative cytochrome P450 hydroxylase   [Mycobacterium avium strain RCAD0278 | 1764.11]&&1764.11.PATRIC	CYP189A5	99.0	402	4	0	1	402	1	404	*	*
+fig|1766.6.peg.1226|XA26_12400   Putative cytochrome P450 hydroxylase   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP282B1	87.8	403	49	0	1	406	1	403	*	*
+fig|1765.326.peg.1912|RN07_1810   Cytochrome P450   [Mycobacterium bovis strain 30 | 1765.326]&&1765.326.PATRIC	CYP139A1	99.8	436	1	0	1	436	1	436	*	*
+fig|1766.6.peg.999|XA26_10090   Cytochrome P450 126   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP126A2	85.0	346	52	0	1	346	1	401	*	*
+fig|1766.6.peg.833|XA26_08430   Cytochrome P450   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP185A1	74.1	456	117	1	1	459	1	462	*	*
+fig|1766.6.peg.4639|XA26_46660   hypothetical protein   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP144A2	55.1	401	178	1	1	399	1	410	*	*
+fig|1766.6.peg.1782|XA26_18010   putative cytochrome P450   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP102B3	55.2	471	197	5	1	463	1	498	*	*
+fig|1766.6.peg.4871   Putative cytochrome P450 hydroxylase   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP279A3	70.4	280	83	0	1	288	1	449	*	*
+fig|1766.6.peg.3643|XA26_36640   Putative cytochrome P450 hydroxylase   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP279A5	64.7	385	136	0	1	402	1	385	*	*
+fig|1766.6.peg.2214|XA26_22270   Putative cytochrome P450 hydroxylase   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP187A1	85.0	406	57	1	1	406	1	402	*	*
+fig|1766.6.peg.4137|XA26_41630   Putative cytochrome P450 hydroxylase   [Mycobacterium fortuitum strain CT6 | 1766.6]&&1766.6.PATRIC	CYP150A2	86.8	431	57	0	1	431	1	437	*	*
+fig|1767.10.peg.91|CKJ61_00455   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP189A16	70.1	395	117	1	1	395	1	396	*	*
+fig|1767.10.peg.708|CKJ61_03545   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP123B1	82.6	397	69	0	1	397	1	403	*	*
+fig|1767.10.peg.791|CKJ61_03950   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP150A5	82.3	423	75	0	1	424	1	423	*	*
+fig|1767.10.peg.766|CKJ61_03825   Cytochrome P450   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP105Q4	85.7	414	59	0	1	414	1	414	*	*
+fig|1767.10.peg.1474|CKJ61_07320   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP187A3	92.2	410	32	0	1	410	1	410	*	*
+fig|1767.10.peg.1180|CKJ61_05850   hypothetical protein   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP187A5	46.3	406	210	5	1	404	1	404	*	*
+fig|1767.10.peg.1852|CKJ61_09150   Cytochrome P450   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP1027B1	64.3	389	138	1	1	401	1	389	*	*
+fig|1767.10.peg.1876|CKJ61_09265   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP143B2	48.5	402	200	3	1	396	1	440	*	*
+fig|1767.10.peg.1510|CKJ61_07495   Cytochrome P450   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP188A1	71.4	458	126	2	1	458	1	453	*	*
+fig|1767.10.peg.2199|CKJ61_10845   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP124A1	89.0	435	48	0	1	435	1	435	*	*
+fig|1767.10.peg.2351|CKJ61_11605   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP153A16	100.0	463	0	0	1	463	1	463	*	*
+fig|1767.10.peg.2369|CKJ61_11690   Cytochrome P450   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP136D2	99.0	485	5	0	1	485	1	485	*	*
+fig|1767.10.peg.2155|CKJ61_10635   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP291A2	40.7	423	237	7	1	418	1	483	*	*
+fig|1767.10.peg.2688|CKJ61_13225   Cytochrome P450 140   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP140A1	77.9	438	97	0	1	440	1	438	*	*
+fig|1767.10.peg.2677|CKJ61_13170   Steroid C27-monooxygenase (EC 1.14.13.141)   [Mycobacterium intracellulare strain FLAC0133 | 1767.10]&&1767.10.PATRIC	CYP125A6	89.3	428	46	0	1	428	1	428	*	*
+fig|1767.9.peg.1444|CKJ67_07200   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0181 | 1767.9]&&1767.9.PATRIC	CYP124F2	51.4	424	198	3	1	424	1	423	*	*
+fig|1767.9.peg.2157|CKJ67_10675   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0181 | 1767.9]&&1767.9.PATRIC	CYP243A1	74.7	411	84	2	1	422	1	406	*	*
+fig|1767.9.peg.1714|CKJ67_08510   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0181 | 1767.9]&&1767.9.PATRIC	CYP142B1	34.0	426	258	9	1	412	1	422	*	*
+fig|1767.9.peg.1965|CKJ67_09735   Putative cytochrome P450 hydroxylase   [Mycobacterium intracellulare strain FLAC0181 | 1767.9]&&1767.9.PATRIC	CYP189A1	87.4	396	50	0	1	398	1	405	*	*
+fig|1767.9.peg.2338|CKJ67_11560   hypothetical protein   [Mycobacterium intracellulare strain FLAC0181 | 1767.9]&&1767.9.PATRIC	CYP150A11	50.1	431	203	3	1	432	1	444	*	*
+fig|1767.9.peg.3083|CKJ67_15105   Cytochrome P450   [Mycobacterium intracellulare strain FLAC0181 | 1767.9]&&1767.9.PATRIC	CYP185A3	67.3	456	149	0	1	456	1	456	*	*
+fig|1770.10.peg.190   Nikkomycin biosynthesis protein SanQ   [Mycobacterium avium subsp. paratuberculosis E93 | 1770.10]&&1770.10.PATRIC	CYP191A2	100.0	403	0	0	1	403	1	403	*	*
+fig|1770.10.peg.1690   Putative cytochrome P450 hydroxylase   [Mycobacterium avium subsp. paratuberculosis E93 | 1770.10]&&1770.10.PATRIC	CYP1034A1	70.6	415	121	1	1	416	1	415	*	*
+fig|1770.10.peg.2127   Putative cytochrome P450 hydroxylase   [Mycobacterium avium subsp. paratuberculosis E93 | 1770.10]&&1770.10.PATRIC	CYP105H1	43.9	412	209	5	1	407	1	398	*	*
+fig|1770.10.peg.3629   Putative cytochrome P450 hydroxylase   [Mycobacterium avium subsp. paratuberculosis E93 | 1770.10]&&1770.10.PATRIC	CYP164A3	71.9	417	111	1	1	411	1	442	*	*
+fig|1770.10.peg.4057   Putative cytochrome P450 hydroxylase   [Mycobacterium avium subsp. paratuberculosis E93 | 1770.10]&&1770.10.PATRIC	CYP125F1	99.7	321	1	0	1	321	1	432	*	*
+fig|1770.39.peg.108|CEP84_00555   Lanosterol 14-alpha demethylase @ Cytochrome P450 51 (EC 1.14.13.70)   [Mycobacterium avium subsp. paratuberculosis strain FDAARGOS_305 | 1770.39]&&1770.39.PATRIC	CYP51B1	99.6	250	1	0	1	252	1	447	*	*
+fig|1770.9.peg.3386   Steroid-monooxygenase   [Mycobacterium avium subsp. paratuberculosis E1 | 1770.9]&&1770.9.PATRIC	CYP123A4	87.1	404	50	1	1	404	1	402	*	*
+fig|1771.11.peg.1285|MPHLCCUG_01301   Cytochrome P450   [Mycobacterium phlei strain CCUG 21000 | 1771.11]&&1771.11.PATRIC	CYP108B1	82.2	416	74	0	1	416	1	431	*	*
+fig|1771.11.peg.5035|MPHLCCUG_05077   hypothetical protein   [Mycobacterium phlei strain CCUG 21000 | 1771.11]&&1771.11.PATRIC	CYP1027B1	49.6	391	191	3	1	401	1	389	*	*
+fig|1771.11.peg.4159|MPHLCCUG_04192   Putative cytochrome P450 hydroxylase   [Mycobacterium phlei strain CCUG 21000 | 1771.11]&&1771.11.PATRIC	CYP188A2	42.7	393	211	7	1	414	1	414	*	*
+fig|1772.10.peg.749   Cytochrome P450   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP105S1	100.0	401	0	0	1	401	1	401	*	*
+fig|1771.11.peg.4450|MPHLCCUG_04483   Cytochrome P450   [Mycobacterium phlei strain CCUG 21000 | 1771.11]&&1771.11.PATRIC	CYP185A6	77.0	457	105	0	1	460	1	457	*	*
+fig|1772.10.peg.4055   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP147D1	37.9	103	64	0	1	104	1	336	*	*
+fig|1771.11.peg.3973|MPHLCCUG_04005   Cytochrome P450 130   [Mycobacterium phlei strain CCUG 21000 | 1771.11]&&1771.11.PATRIC	CYP130A5	83.8	413	63	1	1	409	1	413	*	*
+fig|1772.10.peg.3073   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP107AA1	99.8	413	1	0	1	413	1	432	*	*
+fig|1772.10.peg.4495   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP268A3	99.8	417	1	0	1	417	1	419	*	*
+fig|1772.10.peg.1150   Cytochrome P450 136   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP136B1	100.0	479	0	0	1	479	1	479	*	*
+fig|1772.10.peg.6502   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP151A1	100.0	400	0	0	1	400	1	400	*	*
+fig|1772.19.peg.2085|ERS451418_02055   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis strain NCTC8159 | 1772.19]&&1772.19.PATRIC	CYP107AB1P	99.3	401	2	1	1	405	1	400	*	*
+fig|1772.19.peg.1832|ERS451418_01808   hypothetical protein   [Mycobacterium smegmatis strain NCTC8159 | 1772.19]&&1772.19.PATRIC	CYP186A1	95.8	457	19	0	1	457	1	457	*	*
+fig|1772.19.peg.1231|ERS451418_01218   Cytochrome P450 135B1   [Mycobacterium smegmatis strain NCTC8159 | 1772.19]&&1772.19.PATRIC	CYP135B2	95.6	453	20	0	1	453	1	453	*	*
+fig|1773.225.peg.2448|IU21_02720   hypothetical protein   [Mycobacterium tuberculosis strain 0A005DS | 1773.225]&&1773.225.PATRIC	CYP141A1	99.6	253	1	0	1	253	1	400	*	*
+fig|1773.226.peg.910|IU13_06745   Cytochrome P450 143   [Mycobacterium tuberculosis strain 0B026XDR | 1773.226]&&1773.226.PATRIC	CYP143A1	99.7	393	1	0	1	393	1	393	*	*
+fig|1772.19.peg.2608|ERS451418_02568   Cytochrome P450   [Mycobacterium smegmatis strain NCTC8159 | 1772.19]&&1772.19.PATRIC	CYP268B2	99.5	418	2	0	1	418	1	418	*	*
+fig|1771.11.peg.2673|MPHLCCUG_02694   Putative cytochrome P450 hydroxylase   [Mycobacterium phlei strain CCUG 21000 | 1771.11]&&1771.11.PATRIC	CYP140B1	34.7	424	241	9	1	402	1	507	*	*
+fig|1772.19.peg.3720|ERS451418_03656   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis strain NCTC8159 | 1772.19]&&1772.19.PATRIC	CYP189A3	99.8	407	1	0	1	407	1	407	*	*
+fig|1773.226.peg.4399|IU13_21955   Cytochrome P450   [Mycobacterium tuberculosis strain 0B026XDR | 1773.226]&&1773.226.PATRIC	CYP135A1	100.0	449	0	0	1	449	1	449	*	*
+fig|1772.10.peg.1984   Putative cytochrome P450 hydroxylase   [Mycobacterium smegmatis INHR1 | 1772.10]&&1772.10.PATRIC	CYP107U2	36.2	213	122	4	1	265	1	457	*	*
+fig|1773.226.peg.1579|IU13_09520   Putative cytochrome P450 hydroxylase   [Mycobacterium tuberculosis strain 0B026XDR | 1773.226]&&1773.226.PATRIC	CYP121A1	99.4	315	2	0	1	315	1	396	*	*
+fig|1773.248.peg.1112|IQ40_03000   Cytochrome P450 136   [Mycobacterium tuberculosis strain 0B169XDR | 1773.248]&&1773.248.PATRIC	CYP136A1	99.6	492	2	0	1	492	1	492	*	*
+fig|1773.228.peg.1376|IU15_19215   Cytochrome P450 (EC 1.14.14.1)   [Mycobacterium tuberculosis strain 0A036DS | 1773.228]&&1773.228.PATRIC	CYP137A1	99.6	453	2	0	1	453	1	476	*	*
+fig|1773.31.peg.3379|UDA_1777   Cytochrome P450 144   [Mycobacterium tuberculosis UT205 | 1773.31]&&1773.31.PATRIC	CYP144A1	99.8	404	1	0	1	404	1	434	*	*

@@ -1,0 +1,284 @@
+
+            ##################################################
+            CYPminer 
+            Version "1_1"
+            Copyright (C) 2019 NCTR. All rights researved. 
+            ##################################################
+            Starting panP450ome analysis...
+Combining fasta files...
+
+001/050 [                    ]2 %
+Processing...  1764.11.PATRIC.faa
+
+002/050 [                    ]4 %
+Processing...  1765.277.PATRIC.faa
+
+003/050 [                    ]6 %
+Processing...  1765.319.PATRIC.faa
+
+004/050 [                    ]8 %
+Processing...  1765.321.PATRIC.faa
+
+005/050 [==                  ]10 %
+Processing...  1765.323.PATRIC.faa
+
+006/050 [==                  ]12 %
+Processing...  1765.326.PATRIC.faa
+
+007/050 [==                  ]14 %
+Processing...  1766.6.PATRIC.faa
+
+008/050 [==                  ]16 %
+Processing...  1767.10.PATRIC.faa
+
+009/050 [==                  ]18 %
+Processing...  1767.9.PATRIC.faa
+
+010/050 [====                ]20 %
+Processing...  1770.10.PATRIC.faa
+
+011/050 [====                ]22 %
+Processing...  1770.19.PATRIC.faa
+
+012/050 [====                ]24 %
+Processing...  1770.39.PATRIC.faa
+
+013/050 [====                ]26 %
+Processing...  1770.9.PATRIC.faa
+
+014/050 [====                ]28 %
+Processing...  1771.11.PATRIC.faa
+
+015/050 [======              ]30 %
+Processing...  1772.10.PATRIC.faa
+
+016/050 [======              ]32 %
+Processing...  1772.11.PATRIC.faa
+
+017/050 [======              ]34 %
+Processing...  1772.19.PATRIC.faa
+
+018/050 [======              ]36 %
+Processing...  1773.224.PATRIC.faa
+
+019/050 [======              ]38 %
+Processing...  1773.225.PATRIC.faa
+
+020/050 [========            ]40 %
+Processing...  1773.226.PATRIC.faa
+
+021/050 [========            ]42 %
+Processing...  1773.227.PATRIC.faa
+
+022/050 [========            ]44 %
+Processing...  1773.228.PATRIC.faa
+
+023/050 [========            ]46 %
+Processing...  1773.229.PATRIC.faa
+
+024/050 [========            ]48 %
+Processing...  1773.230.PATRIC.faa
+
+025/050 [==========          ]50 %
+Processing...  1773.231.PATRIC.faa
+
+026/050 [==========          ]52 %
+Processing...  1773.232.PATRIC.faa
+
+027/050 [==========          ]54 %
+Processing...  1773.233.PATRIC.faa
+
+028/050 [==========          ]56 %
+Processing...  1773.234.PATRIC.faa
+
+029/050 [==========          ]57 %
+Processing...  1773.235.PATRIC.faa
+
+030/050 [============        ]60 %
+Processing...  1773.236.PATRIC.faa
+
+031/050 [============        ]62 %
+Processing...  1773.237.PATRIC.faa
+
+032/050 [============        ]64 %
+Processing...  1773.238.PATRIC.faa
+
+033/050 [============        ]66 %
+Processing...  1773.239.PATRIC.faa
+
+034/050 [============        ]68 %
+Processing...  1773.240.PATRIC.faa
+
+035/050 [==============      ]70 %
+Processing...  1773.241.PATRIC.faa
+
+036/050 [==============      ]72 %
+Processing...  1773.242.PATRIC.faa
+
+037/050 [==============      ]74 %
+Processing...  1773.243.PATRIC.faa
+
+038/050 [==============      ]76 %
+Processing...  1773.244.PATRIC.faa
+
+039/050 [==============      ]78 %
+Processing...  1773.245.PATRIC.faa
+
+040/050 [================    ]80 %
+Processing...  1773.246.PATRIC.faa
+
+041/050 [================    ]82 %
+Processing...  1773.247.PATRIC.faa
+
+042/050 [================    ]84 %
+Processing...  1773.248.PATRIC.faa
+
+043/050 [================    ]86 %
+Processing...  1773.249.PATRIC.faa
+
+044/050 [================    ]88 %
+Processing...  1773.250.PATRIC.faa
+
+045/050 [==================  ]90 %
+Processing...  1773.251.PATRIC.faa
+
+046/050 [==================  ]92 %
+Processing...  1773.31.PATRIC.faa
+
+047/050 [==================  ]94 %
+Processing...  1773.349.PATRIC.faa
+
+048/050 [==================  ]96 %
+Processing...  1773.522.PATRIC.faa
+
+049/050 [==================  ]98 %
+Processing...  1773.523.PATRIC.faa
+
+050/050 [====================]100 %
+Processing...  1773.554.PATRIC.faa
+Clustering analysis...
+Identification: rps_blast analysis...
+Identification: blast analysis...
+Classification: C_panTable_class.csv
+GenomeName_list:  ['1764.11.PATRIC', '1765.277.PATRIC', '1765.319.PATRIC', '1765.321.PATRIC', '1765.323.PATRIC', '1765.326.PATRIC', '1766.6.PATRIC', '1767.10.PATRIC', '1767.9.PATRIC', '1770.10.PATRIC', '1770.19.PATRIC', '1770.39.PATRIC', '1770.9.PATRIC', '1771.11.PATRIC', '1772.10.PATRIC', '1772.11.PATRIC', '1772.19.PATRIC', '1773.224.PATRIC', '1773.225.PATRIC', '1773.226.PATRIC', '1773.227.PATRIC', '1773.228.PATRIC', '1773.229.PATRIC', '1773.230.PATRIC', '1773.231.PATRIC', '1773.232.PATRIC', '1773.233.PATRIC', '1773.234.PATRIC', '1773.235.PATRIC', '1773.236.PATRIC', '1773.237.PATRIC', '1773.238.PATRIC', '1773.239.PATRIC', '1773.240.PATRIC', '1773.241.PATRIC', '1773.242.PATRIC', '1773.243.PATRIC', '1773.244.PATRIC', '1773.245.PATRIC', '1773.246.PATRIC', '1773.247.PATRIC', '1773.248.PATRIC', '1773.249.PATRIC', '1773.250.PATRIC', '1773.251.PATRIC', '1773.31.PATRIC', '1773.349.PATRIC', '1773.522.PATRIC', '1773.523.PATRIC', '1773.554.PATRIC']
+PanP450ome analysis (Random Sampling upto  300 )...
+Sampling length= 1
+Sampling length= 2
+Sampling length= 3
+Sampling length= 4
+Sampling length= 5
+Sampling length= 6
+Sampling length= 7
+Sampling length= 8
+Sampling length= 9
+Sampling length= 10
+Sampling length= 11
+Sampling length= 12
+Sampling length= 13
+Sampling length= 14
+Sampling length= 15
+Sampling length= 16
+Sampling length= 17
+Sampling length= 18
+Sampling length= 19
+Sampling length= 20
+Sampling length= 21
+Sampling length= 22
+Sampling length= 23
+Sampling length= 24
+Sampling length= 25
+Sampling length= 26
+Sampling length= 27
+Sampling length= 28
+Sampling length= 29
+Sampling length= 30
+Sampling length= 31
+Sampling length= 32
+Sampling length= 33
+Sampling length= 34
+Sampling length= 35
+Sampling length= 36
+Sampling length= 37
+Sampling length= 38
+Sampling length= 39
+Sampling length= 40
+Sampling length= 41
+Sampling length= 42
+Sampling length= 43
+Sampling length= 44
+Sampling length= 45
+Sampling length= 46
+Sampling length= 47
+Sampling length= 48
+Sampling length= 49
+[Warning] Max Iteration Reached. numOfCombination= 49
+Sampling length= 50
+PanP450ome analysis (Random Sampling upto  300 )...
+Sampling length= 1
+Sampling length= 2
+Sampling length= 3
+Sampling length= 4
+Sampling length= 5
+Sampling length= 6
+Sampling length= 7
+Sampling length= 8
+Sampling length= 9
+Sampling length= 10
+Sampling length= 11
+Sampling length= 12
+Sampling length= 13
+Sampling length= 14
+Sampling length= 15
+Sampling length= 16
+Sampling length= 17
+Sampling length= 18
+Sampling length= 19
+Sampling length= 20
+Sampling length= 21
+Sampling length= 22
+Sampling length= 23
+Sampling length= 24
+Sampling length= 25
+Sampling length= 26
+Sampling length= 27
+Sampling length= 28
+Sampling length= 29
+Sampling length= 30
+Sampling length= 31
+Sampling length= 32
+Sampling length= 33
+Sampling length= 34
+Sampling length= 35
+Sampling length= 36
+Sampling length= 37
+Sampling length= 38
+Sampling length= 39
+Sampling length= 40
+Sampling length= 41
+Sampling length= 42
+Sampling length= 43
+Sampling length= 44
+Sampling length= 45
+Sampling length= 46
+Sampling length= 47
+Sampling length= 48
+Sampling length= 49
+[Warning] Max Iteration Reached. numOfCombination= 49
+Sampling length= 50
+K:  panTable_Family_panScore
+50
+Power-low fitting data:  C:\Data_analysis\B_50_results\panTable_Family_panScore.png
+amp: 23.52039794414044 index 0.18472768776309137
+K:  panTable_Family_coreScore
+50
+Power-low fitting data:  C:\Data_analysis\B_50_results\panTable_Family_coreScore.png
+amp: 19.49449778257963 index -0.3430949131151007
+K:  panTable_Subfamily_coreScore
+50
+Power-low fitting data:  C:\Data_analysis\B_50_results\panTable_Subfamily_coreScore.png
+amp: 21.345234017684707 index -0.42230292689411747
+K:  panTable_Subfamily_panScore
+50
+Power-low fitting data:  C:\Data_analysis\B_50_results\panTable_Subfamily_panScore.png
+amp: 25.565748809343017 index 0.25426607911782445
+Analysis complete
