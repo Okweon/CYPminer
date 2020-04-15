@@ -1,0 +1,334 @@
+
+            ##################################################
+            CYPminer 
+            Version "1_1"
+            Copyright (C) 2019 NCTR. All rights researved. 
+            ##################################################
+            Starting panP450ome analysis...
+Combining fasta files...
+
+001/060 [                    ]1 %
+Processing...  Absidia_glauca_gca_900079185.AG_v1.pep.all.faa
+
+002/060 [                    ]3 %
+Processing...  Absidia_repens_gca_002105175.Absrep1.pep.all.faa
+
+003/060 [                    ]5 %
+Processing...  Acaromyces_ingoldii_gca_003144295.Acain1.pep.all.faa
+
+004/060 [                    ]6 %
+Processing...  Acidomyces_richmondensis_bfw_gca_001592465.Acidomyces_richmondensis_BFW_v1.0.pep.all.faa
+
+005/060 [                    ]8 %
+Processing...  Acidomyces_richmondensis_gca_001572075.ASM157207v1.pep.all.faa
+
+006/060 [==                  ]10 %
+Processing...  Agaricus_bisporus_var_burnettii_jb137_s8_gca_000300555.Agabi_varbur_1.pep.all.faa
+
+007/060 [==                  ]11 %
+Processing...  Alternaria_alternata_gca_001642055.Altal1.pep.all.faa
+
+008/060 [==                  ]13 %
+Processing...  Amorphotheca_resinae_atcc_22711_gca_003019875.Amore1.pep.all.faa
+
+009/060 [==                  ]15 %
+Processing...  Aspergillus_indologenus_cbs_114_80_gca_003184685.Aspind1.pep.all.faa
+
+010/060 [==                  ]16 %
+Processing...  Aspergillus_japonicus_cbs_114_51_gca_003184785.Aspjap1.pep.all.faa
+
+011/060 [==                  ]18 %
+Processing...  1764.11.PATRIC.faa
+
+012/060 [====                ]20 %
+Processing...  1765.277.PATRIC.faa
+
+013/060 [====                ]21 %
+Processing...  1765.319.PATRIC.faa
+
+014/060 [====                ]23 %
+Processing...  1765.321.PATRIC.faa
+
+015/060 [====                ]25 %
+Processing...  1765.323.PATRIC.faa
+
+016/060 [====                ]26 %
+Processing...  1765.326.PATRIC.faa
+
+017/060 [====                ]28 %
+Processing...  1766.6.PATRIC.faa
+
+018/060 [======              ]30 %
+Processing...  1767.10.PATRIC.faa
+
+019/060 [======              ]31 %
+Processing...  1767.9.PATRIC.faa
+
+020/060 [======              ]33 %
+Processing...  1770.10.PATRIC.faa
+
+021/060 [======              ]35 %
+Processing...  1770.19.PATRIC.faa
+
+022/060 [======              ]36 %
+Processing...  1770.39.PATRIC.faa
+
+023/060 [======              ]38 %
+Processing...  1770.9.PATRIC.faa
+
+024/060 [========            ]40 %
+Processing...  1771.11.PATRIC.faa
+
+025/060 [========            ]41 %
+Processing...  1772.10.PATRIC.faa
+
+026/060 [========            ]43 %
+Processing...  1772.11.PATRIC.faa
+
+027/060 [========            ]45 %
+Processing...  1772.19.PATRIC.faa
+
+028/060 [========            ]46 %
+Processing...  1773.224.PATRIC.faa
+
+029/060 [========            ]48 %
+Processing...  1773.225.PATRIC.faa
+
+030/060 [==========          ]50 %
+Processing...  1773.226.PATRIC.faa
+
+031/060 [==========          ]51 %
+Processing...  1773.227.PATRIC.faa
+
+032/060 [==========          ]53 %
+Processing...  1773.228.PATRIC.faa
+
+033/060 [==========          ]55 %
+Processing...  1773.229.PATRIC.faa
+
+034/060 [==========          ]56 %
+Processing...  1773.230.PATRIC.faa
+
+035/060 [==========          ]58 %
+Processing...  1773.231.PATRIC.faa
+
+036/060 [============        ]60 %
+Processing...  1773.232.PATRIC.faa
+
+037/060 [============        ]61 %
+Processing...  1773.233.PATRIC.faa
+
+038/060 [============        ]63 %
+Processing...  1773.234.PATRIC.faa
+
+039/060 [============        ]65 %
+Processing...  1773.235.PATRIC.faa
+
+040/060 [============        ]66 %
+Processing...  1773.236.PATRIC.faa
+
+041/060 [============        ]68 %
+Processing...  1773.237.PATRIC.faa
+
+042/060 [==============      ]70 %
+Processing...  1773.238.PATRIC.faa
+
+043/060 [==============      ]71 %
+Processing...  1773.239.PATRIC.faa
+
+044/060 [==============      ]73 %
+Processing...  1773.240.PATRIC.faa
+
+045/060 [==============      ]75 %
+Processing...  1773.241.PATRIC.faa
+
+046/060 [==============      ]76 %
+Processing...  1773.242.PATRIC.faa
+
+047/060 [==============      ]78 %
+Processing...  1773.243.PATRIC.faa
+
+048/060 [================    ]80 %
+Processing...  1773.244.PATRIC.faa
+
+049/060 [================    ]81 %
+Processing...  1773.245.PATRIC.faa
+
+050/060 [================    ]83 %
+Processing...  1773.246.PATRIC.faa
+
+051/060 [================    ]85 %
+Processing...  1773.247.PATRIC.faa
+
+052/060 [================    ]86 %
+Processing...  1773.248.PATRIC.faa
+
+053/060 [================    ]88 %
+Processing...  1773.249.PATRIC.faa
+
+054/060 [==================  ]90 %
+Processing...  1773.250.PATRIC.faa
+
+055/060 [==================  ]91 %
+Processing...  1773.251.PATRIC.faa
+
+056/060 [==================  ]93 %
+Processing...  1773.31.PATRIC.faa
+
+057/060 [==================  ]95 %
+Processing...  1773.349.PATRIC.faa
+
+058/060 [==================  ]96 %
+Processing...  1773.522.PATRIC.faa
+
+059/060 [==================  ]98 %
+Processing...  1773.523.PATRIC.faa
+
+060/060 [====================]100 %
+Processing...  1773.554.PATRIC.faa
+Clustering analysis...
+Identification: rps_blast analysis...
+Identification: blast analysis...
+Classification: C_panTable_class.csv
+GenomeName_list:  ['Absidia_glauca_gca_900079185.AG_v1.pep.all', 'Absidia_repens_gca_002105175.Absrep1.pep.all', 'Acaromyces_ingoldii_gca_003144295.Acain1.pep.all', 'Acidomyces_richmondensis_bfw_gca_001592465.Acidomyces_richmondensis_BFW_v1.0.pep.all', 'Acidomyces_richmondensis_gca_001572075.ASM157207v1.pep.all', 'Agaricus_bisporus_var_burnettii_jb137_s8_gca_000300555.Agabi_varbur_1.pep.all', 'Alternaria_alternata_gca_001642055.Altal1.pep.all', 'Amorphotheca_resinae_atcc_22711_gca_003019875.Amore1.pep.all', 'Aspergillus_indologenus_cbs_114_80_gca_003184685.Aspind1.pep.all', 'Aspergillus_japonicus_cbs_114_51_gca_003184785.Aspjap1.pep.all', '1764.11.PATRIC', '1765.277.PATRIC', '1765.319.PATRIC', '1765.321.PATRIC', '1765.323.PATRIC', '1765.326.PATRIC', '1766.6.PATRIC', '1767.10.PATRIC', '1767.9.PATRIC', '1770.10.PATRIC', '1770.19.PATRIC', '1770.39.PATRIC', '1770.9.PATRIC', '1771.11.PATRIC', '1772.10.PATRIC', '1772.11.PATRIC', '1772.19.PATRIC', '1773.224.PATRIC', '1773.225.PATRIC', '1773.226.PATRIC', '1773.227.PATRIC', '1773.228.PATRIC', '1773.229.PATRIC', '1773.230.PATRIC', '1773.231.PATRIC', '1773.232.PATRIC', '1773.233.PATRIC', '1773.234.PATRIC', '1773.235.PATRIC', '1773.236.PATRIC', '1773.237.PATRIC', '1773.238.PATRIC', '1773.239.PATRIC', '1773.240.PATRIC', '1773.241.PATRIC', '1773.242.PATRIC', '1773.243.PATRIC', '1773.244.PATRIC', '1773.245.PATRIC', '1773.246.PATRIC', '1773.247.PATRIC', '1773.248.PATRIC', '1773.249.PATRIC', '1773.250.PATRIC', '1773.251.PATRIC', '1773.31.PATRIC', '1773.349.PATRIC', '1773.522.PATRIC', '1773.523.PATRIC', '1773.554.PATRIC']
+PanP450ome analysis (Random Sampling upto  300 )...
+Sampling length= 1
+Sampling length= 2
+Sampling length= 3
+Sampling length= 4
+Sampling length= 5
+Sampling length= 6
+Sampling length= 7
+Sampling length= 8
+Sampling length= 9
+Sampling length= 10
+Sampling length= 11
+Sampling length= 12
+Sampling length= 13
+Sampling length= 14
+Sampling length= 15
+Sampling length= 16
+Sampling length= 17
+Sampling length= 18
+Sampling length= 19
+Sampling length= 20
+Sampling length= 21
+Sampling length= 22
+Sampling length= 23
+Sampling length= 24
+Sampling length= 25
+Sampling length= 26
+Sampling length= 27
+Sampling length= 28
+Sampling length= 29
+Sampling length= 30
+Sampling length= 31
+Sampling length= 32
+Sampling length= 33
+Sampling length= 34
+Sampling length= 35
+Sampling length= 36
+Sampling length= 37
+Sampling length= 38
+Sampling length= 39
+Sampling length= 40
+Sampling length= 41
+Sampling length= 42
+Sampling length= 43
+Sampling length= 44
+Sampling length= 45
+Sampling length= 46
+Sampling length= 47
+Sampling length= 48
+Sampling length= 49
+Sampling length= 50
+Sampling length= 51
+Sampling length= 52
+Sampling length= 53
+Sampling length= 54
+Sampling length= 55
+Sampling length= 56
+Sampling length= 57
+Sampling length= 58
+Sampling length= 59
+[Warning] Max Iteration Reached. numOfCombination= 59
+Sampling length= 60
+PanP450ome analysis (Random Sampling upto  300 )...
+Sampling length= 1
+Sampling length= 2
+Sampling length= 3
+Sampling length= 4
+Sampling length= 5
+Sampling length= 6
+Sampling length= 7
+Sampling length= 8
+Sampling length= 9
+Sampling length= 10
+Sampling length= 11
+Sampling length= 12
+Sampling length= 13
+Sampling length= 14
+Sampling length= 15
+Sampling length= 16
+Sampling length= 17
+Sampling length= 18
+Sampling length= 19
+Sampling length= 20
+Sampling length= 21
+Sampling length= 22
+Sampling length= 23
+Sampling length= 24
+Sampling length= 25
+Sampling length= 26
+Sampling length= 27
+Sampling length= 28
+Sampling length= 29
+Sampling length= 30
+Sampling length= 31
+Sampling length= 32
+Sampling length= 33
+Sampling length= 34
+Sampling length= 35
+Sampling length= 36
+Sampling length= 37
+Sampling length= 38
+Sampling length= 39
+Sampling length= 40
+Sampling length= 41
+Sampling length= 42
+Sampling length= 43
+Sampling length= 44
+Sampling length= 45
+Sampling length= 46
+Sampling length= 47
+Sampling length= 48
+Sampling length= 49
+Sampling length= 50
+Sampling length= 51
+Sampling length= 52
+Sampling length= 53
+Sampling length= 54
+Sampling length= 55
+Sampling length= 56
+Sampling length= 57
+Sampling length= 58
+Sampling length= 59
+[Warning] Max Iteration Reached. numOfCombination= 59
+Sampling length= 60
+K:  panTable_Family_panScore
+60
+Power-low fitting data:  C:\Data_analysis\FB_60_results\panTable_Family_panScore.png
+amp: 25.29997260295981 index 0.5417594292586093
+K:  panTable_Family_coreScore
+60
+Power-low fitting data:  C:\Data_analysis\FB_60_results\panTable_Family_coreScore.png
+amp: 10.0 index -1.0
+K:  panTable_Subfamily_coreScore
+60
+Power-low fitting data:  C:\Data_analysis\FB_60_results\panTable_Subfamily_coreScore.png
+amp: 10.0 index -1.0
+K:  panTable_Subfamily_panScore
+60
+Power-low fitting data:  C:\Data_analysis\FB_60_results\panTable_Subfamily_panScore.png
+amp: 27.75543591723673 index 0.6454361991581303
+Analysis complete
