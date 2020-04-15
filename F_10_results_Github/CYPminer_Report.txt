@@ -1,0 +1,98 @@
+
+            ##################################################
+            CYPminer 
+            Version "1_1"
+            Copyright (C) 2019 NCTR. All rights researved. 
+            ##################################################
+            Starting panP450ome analysis...
+Combining fasta files...
+
+001/010 [==                  ]10 %
+Processing...  Absidia_glauca_gca_900079185.AG_v1.pep.all.faa
+
+002/010 [====                ]20 %
+Processing...  Absidia_repens_gca_002105175.Absrep1.pep.all.faa
+
+003/010 [======              ]30 %
+Processing...  Acaromyces_ingoldii_gca_003144295.Acain1.pep.all.faa
+
+004/010 [========            ]40 %
+Processing...  Acidomyces_richmondensis_bfw_gca_001592465.Acidomyces_richmondensis_BFW_v1.0.pep.all.faa
+
+005/010 [==========          ]50 %
+Processing...  Acidomyces_richmondensis_gca_001572075.ASM157207v1.pep.all.faa
+
+006/010 [============        ]60 %
+Processing...  Agaricus_bisporus_var_burnettii_jb137_s8_gca_000300555.Agabi_varbur_1.pep.all.faa
+
+007/010 [==============      ]70 %
+Processing...  Alternaria_alternata_gca_001642055.Altal1.pep.all.faa
+
+008/010 [================    ]80 %
+Processing...  Amorphotheca_resinae_atcc_22711_gca_003019875.Amore1.pep.all.faa
+
+009/010 [==================  ]90 %
+Processing...  Aspergillus_indologenus_cbs_114_80_gca_003184685.Aspind1.pep.all.faa
+
+010/010 [====================]100 %
+Processing...  Aspergillus_japonicus_cbs_114_51_gca_003184785.Aspjap1.pep.all.faa
+Clustering analysis...
+Identification: rps_blast analysis...
+Identification: blast analysis...
+Classification: C_panTable_class.csv
+GenomeName_list:  ['Absidia_glauca_gca_900079185.AG_v1.pep.all', 'Absidia_repens_gca_002105175.Absrep1.pep.all', 'Acaromyces_ingoldii_gca_003144295.Acain1.pep.all', 'Acidomyces_richmondensis_bfw_gca_001592465.Acidomyces_richmondensis_BFW_v1.0.pep.all', 'Acidomyces_richmondensis_gca_001572075.ASM157207v1.pep.all', 'Agaricus_bisporus_var_burnettii_jb137_s8_gca_000300555.Agabi_varbur_1.pep.all', 'Alternaria_alternata_gca_001642055.Altal1.pep.all', 'Amorphotheca_resinae_atcc_22711_gca_003019875.Amore1.pep.all', 'Aspergillus_indologenus_cbs_114_80_gca_003184685.Aspind1.pep.all', 'Aspergillus_japonicus_cbs_114_51_gca_003184785.Aspjap1.pep.all']
+PanP450ome analysis (Random Sampling upto  300 )...
+Sampling length= 1
+Sampling length= 2
+[Warning] Max Iteration Reached. numOfCombination= 2
+Sampling length= 3
+[Warning] Max Iteration Reached. numOfCombination= 3
+Sampling length= 4
+[Warning] Max Iteration Reached. numOfCombination= 4
+Sampling length= 5
+[Warning] Max Iteration Reached. numOfCombination= 5
+Sampling length= 6
+[Warning] Max Iteration Reached. numOfCombination= 6
+Sampling length= 7
+[Warning] Max Iteration Reached. numOfCombination= 7
+Sampling length= 8
+[Warning] Max Iteration Reached. numOfCombination= 8
+Sampling length= 9
+[Warning] Max Iteration Reached. numOfCombination= 9
+Sampling length= 10
+PanP450ome analysis (Random Sampling upto  300 )...
+Sampling length= 1
+Sampling length= 2
+[Warning] Max Iteration Reached. numOfCombination= 2
+Sampling length= 3
+[Warning] Max Iteration Reached. numOfCombination= 3
+Sampling length= 4
+[Warning] Max Iteration Reached. numOfCombination= 4
+Sampling length= 5
+[Warning] Max Iteration Reached. numOfCombination= 5
+Sampling length= 6
+[Warning] Max Iteration Reached. numOfCombination= 6
+Sampling length= 7
+[Warning] Max Iteration Reached. numOfCombination= 7
+Sampling length= 8
+[Warning] Max Iteration Reached. numOfCombination= 8
+Sampling length= 9
+[Warning] Max Iteration Reached. numOfCombination= 9
+Sampling length= 10
+K:  panTable_Family_panScore
+10
+Power-low fitting data:  C:\Data_analysis\New folder\panTable_Family_panScore.png
+amp: 41.5736067576985 index 0.6521593778836792
+K:  panTable_Family_coreScore
+10
+Power-low fitting data:  C:\Data_analysis\New folder\panTable_Family_coreScore.png
+amp: 27.112991982805852 index -1.2905863586187558
+K:  panTable_Subfamily_coreScore
+10
+Power-low fitting data:  C:\Data_analysis\New folder\panTable_Subfamily_coreScore.png
+amp: 23.278555194448174 index -1.2817296533032057
+K:  panTable_Subfamily_panScore
+10
+Power-low fitting data:  C:\Data_analysis\New folder\panTable_Subfamily_panScore.png
+amp: 55.07290332597555 index 0.7750081712535424
+Analysis complete
